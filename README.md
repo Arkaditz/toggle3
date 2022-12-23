@@ -1,6 +1,6 @@
 # Toggle3
 
-##Descripción
+## Descripción
 Este es un ejercicio propuesto por un compañero en una [clase de Platzi](https://platzi.com/clases/3271-javascript-practico/51022-carrito-de-compras/ "clase de Platzi"), el cual menciona:
 
 Dadas 3 vistas, pueden estar encendidas las 3 al mismo tiempo pero no debe de estar apagada más de una.
